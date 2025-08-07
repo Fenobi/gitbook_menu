@@ -1,4 +1,3 @@
-# Summary
+# 机型选择
 
-* [Introduction](README.md)
-
+* [机型选择](./README.md)
